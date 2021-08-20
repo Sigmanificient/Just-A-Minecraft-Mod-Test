@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "sigmanificient",
+        "name": "Sigmanificient",
+        "description": "a test mod",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["me"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
